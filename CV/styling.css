@@ -1,0 +1,20 @@
+body {
+  background-color: #aefeff;
+}
+hr {
+  border: none;
+  border-top: 3px double white;
+  color: white;
+  overflow: visible;
+  text-align: center;
+  height: 5px;
+}
+hr:after {
+  background: #fff;
+  padding: 0 4px;
+  position: relative;
+  top: -13px;
+}
+h2 {
+  color: #4fbdba;
+}
